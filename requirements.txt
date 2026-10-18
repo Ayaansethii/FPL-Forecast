@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+requests
+scikit-learn
+lightgbm
+pulp>=4,<5
+streamlit
+plotly
+matplotlib
+jupyter
+ipykernel
+highspy
